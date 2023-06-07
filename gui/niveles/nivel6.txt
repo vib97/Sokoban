@@ -1,0 +1,10 @@
+1
+---PPP---
+---PCP---
+---PPP---
+PPPD-DPPP
+PCP-0-PCP
+PPPD--PPP
+---PPP---
+---PCP---
+---PPP---

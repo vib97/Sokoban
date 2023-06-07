@@ -1,0 +1,16 @@
+0
+-----PPPPP-----
+---PPPDDDPPP---
+--PPD-DCD-DPP--
+-PPD--C-C--DPP-
+PPD--C-C-C--DPP
+PD--CPC-CPC--DP
+P--C-C---C-C--P
+PDC-P-DID-P-CDP
+P--C-C---C-C--P
+PD--CPC-CPC--DP
+PPD--C-C-C--DPP
+-PPD--C-C--DPP-
+--PPD-DCD-DPP--
+---PPPDDDPPP---
+-----PPPPP-----
