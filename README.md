@@ -1,3 +1,4 @@
+<img width="1145" height="903" alt="Screenshot from 2026-04-29 20-05-55" src="https://github.com/user-attachments/assets/66117c6c-5f30-4d59-bc67-b5871377637e" />
 # Para los tests
 
 ## Compilación:
